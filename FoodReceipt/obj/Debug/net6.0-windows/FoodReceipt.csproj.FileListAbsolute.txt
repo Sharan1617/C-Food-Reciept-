@@ -1,0 +1,44 @@
+C:\C# Programs\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.exe
+C:\C# Programs\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.deps.json
+C:\C# Programs\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.runtimeconfig.json
+C:\C# Programs\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.dll
+C:\C# Programs\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.pdb
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.csproj.AssemblyReference.cache
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\App.g.cs
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_MarkupCompile.cache
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_MarkupCompile.lref
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.g.resources
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.AssemblyInfoInputs.cache
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.AssemblyInfo.cs
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.csproj.CoreCompileInputs.cache
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.dll
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\refint\FoodReceipt.dll
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.pdb
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.genruntimeconfig.cache
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\ref\FoodReceipt.dll
+C:\C# Programs\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_Content.g.cs
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.exe
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.deps.json
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.runtimeconfig.json
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.dll
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\bin\Debug\net6.0-windows\FoodReceipt.pdb
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.csproj.AssemblyReference.cache
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\App.g.cs
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_Content.g.cs
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_MarkupCompile.cache
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt_MarkupCompile.lref
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.g.resources
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.AssemblyInfoInputs.cache
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.AssemblyInfo.cs
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.csproj.CoreCompileInputs.cache
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.dll
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\refint\FoodReceipt.dll
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.pdb
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\FoodReceipt.genruntimeconfig.cache
+C:\1st Semester CAD\CAD Sharan\FoodReceipt\FoodReceipt\obj\Debug\net6.0-windows\ref\FoodReceipt.dll
